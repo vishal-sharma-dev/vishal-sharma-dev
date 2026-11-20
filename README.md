@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Vishal Sharma 👋
 
-<!--
-**vishal-sharma-dev/vishal-sharma-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Graduate | Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+I'm a BCA graduate from India, currently building my skills in web development and technical support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning by building practical projects and improving my problem-solving abilities.
+
+## 👨‍💻 About Me
+
+- 🎓 BCA Graduate
+- 🌱 Currently learning JavaScript, Git and GitHub
+- 💻 Interested in Frontend Development and IT Support
+- 🛠️ Practicing HTML, CSS and basic JavaScript
+- 🎯 Working towards becoming a professional software developer
+
+## 🧰 Technical Skills
+
+- HTML5
+- CSS3
+- JavaScript (Beginner)
+- Git & GitHub
+- Visual Studio Code
+
+## 📚 Currently Learning
+
+- JavaScript fundamentals
+- DOM Manipulation
+- Responsive Web Design
+- Git and GitHub workflows
+- Basic IT troubleshooting
+
+## 🚀 Projects
+
+My practical projects will be added here as I build and publish them.
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/vishal-sharma-dev
+- LinkedIn: Add your LinkedIn profile URL here
+
+---
+
+*Learning consistently. Building practically. Improving every day.*
